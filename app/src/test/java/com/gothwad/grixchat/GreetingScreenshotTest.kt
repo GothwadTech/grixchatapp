@@ -23,7 +23,7 @@ class GreetingScreenshotTest {
 
   @Test
   fun greeting_screenshot() {
-    composeTestRule.setContent { MyApplicationTheme { Text("GrixChat") } }
+    composeTestRule.setContent { MyApplicationTheme { Text("Bansify Chat") } }
 
     composeTestRule.onRoot().captureRoboImage(filePath = "src/test/screenshots/greeting.png")
   }

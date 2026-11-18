@@ -1,4 +1,4 @@
-# GrixChat 🚀
+# Bansify Chat 🚀
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 📱 Overview
 
-**GrixChat** is an open-source Android messaging and communication app designed for fluid performance, offline reliability, and clean aesthetics. It integrates native Jetpack Compose interfaces with advanced WebView caching mechanisms, local Room database persistence, and Firebase Push Notifications.
+**Bansify Chat** is an open-source Android messaging and communication app designed for fluid performance, offline reliability, and clean aesthetics. It integrates native Jetpack Compose interfaces with advanced WebView caching mechanisms, local Room database persistence, and Firebase Push Notifications.
 
 ---
 
@@ -50,7 +50,7 @@
 ## 📂 Project Structure
 
 ```text
-GrixChat/
+Bansify Chat/
 ├── .github/
 │   └── workflows/
 │       ├── build.yml          # Build & Sign APK / AAB on push to main
@@ -90,8 +90,8 @@ GrixChat/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/GrixChat.git
-   cd GrixChat
+   git clone https://github.com/your-username/Bansify Chat.git
+   cd Bansify Chat
    ```
 
 2. **Setup environment variables:**
